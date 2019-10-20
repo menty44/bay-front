@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.maze-image {
+width: 27px;
+height: 30px;
+padding-top: 5px;
+}
+#root{
+  margin: 0 auto;
+
+}
+.cell{ 
+width: 35px; height: 35px;
+background: #fff;
+border: solid #00adef 1px;
+display: block;
+float: left;
+}
+
